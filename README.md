@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sokthyreak
+- 👋 Hi, I’m @Sokthyreak.cmd
 - 👀 I’m interested in Listening Music
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on ...
